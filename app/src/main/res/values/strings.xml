@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">gymLog_v_sp22</string>
+    <string name="app_name">GymLog V SP22</string>
+    <string name="mainExerciseHint">Enter Exercise</string>
+    <string name="mainWeightHint">Enter Weight</string>
+    <string name="mainRepsHint">Enter Reps</string>
+    <string name="mainSubmitButton">Submit</string>
 </resources>
